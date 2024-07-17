@@ -1,6 +1,6 @@
-Một sản phẩm của [VBI Academy](https://vbiacademy.edu.vn/)
+A product of [VBI Academy](https://vbiacademy.edu.vn/)
 
 ## Links
-- **[OpenEdu101](https://openedu101.com/)**: Nền tảng E-learning thế hệ mới sử dụng công nghệ Blockchain để tối ưu về việc học, thực hành & lưu trữ hồ sơ năng lực học viên một cách minh bạch và tin cậy.
-- **[VBI Academy](https://vbiacademy.edu.vn/)**: Top 1 đơn vị đào tạo lập trình viên Blockchain và Web3 tại Việt Nam.
-- **[VBI Vietnam Dev & Tech Forum](facebook.com/groups/vbivietnamdevtech)**: Diễn đàn chia sẻ và thảo luận các công nghệ hướng tới thế hệ Web tiếp theo (Web3) như Blockchain, AI, Big Data, Quantum,...
+- **[OpenEdu101](https://openedu101.com/)**: A new generation E-learning platform using Blockchain technology to optimize learning, practice & store student competency records in a transparent and reliable manner.
+- **[VBI Academy](https://vbiacademy.edu.vn/)**: Top 1 training institution for Blockchain and Web3 developers in Vietnam.
+- **[VBI Vietnam Dev & Tech Forum](facebook.com/groups/vbivietnamdevtech)**: A forum for sharing and discussing technologies aimed at the next generation of the Web (Web3) such as Blockchain, AI, Big Data, Quantum,...
